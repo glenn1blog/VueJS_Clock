@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+body {
+  height: 100vh;
+  background: #0ab300;
+  background: radial-gradient(circle, #0fa807 0%, #002404 100%);
+}
+
+#time {
+  color: white;
+  font-size: 6em;
+  text-align: center;
+  height: 100vh;
+  line-height: 100vh;
+  text-shadow: 0 0px 20px #a9eba6;
+}
+/*# sourceMappingURL=style.css.map */
